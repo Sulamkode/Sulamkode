@@ -14,7 +14,7 @@ Saat ini fokus pada **Google Apps Script**, **Python**, dan **PHP**
   <img src="https://img.shields.io/badge/Code-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 </p>
 
-#### 📊 Statistik GitHub Saya
+### 📊 Statistik GitHub Saya
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sulamkode&show_icons=true&theme=radical" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sulamkode&show_icons=true&theme=radical" alt="Statistik Sulamkode" />
 </p>
