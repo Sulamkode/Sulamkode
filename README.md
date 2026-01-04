@@ -1,4 +1,4 @@
-### Hi there! 👋 Saya [Arsa]
+### Hi there! 👋 Saya [Adi]
 
 Seorang pengembang web yang antusias membangun otomatisasi dan solusi efisien.
 Saat ini fokus pada **Google Apps Script**, **Python**, dan **PHP**
